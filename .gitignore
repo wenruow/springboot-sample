@@ -24,3 +24,27 @@ hs_err_pid*
 
 .project
 .classpath
+/.metadata/
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.programmingmonk.wenruo/springboot-sample/pom.properties
+.classpath
+.DS_Store
+pom.xml
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/com/.DS_Store
+src/main/java/com/wenruo/.DS_Store
+src/main/java/com/wenruo/springbootstarter/.DS_Store
+src/main/resources/application.properties
+target/classes/.DS_Store
+target/classes/com/.DS_Store
+target/classes/com/wenruo/.DS_Store
+target/classes/com/wenruo/springbootstarter/.DS_Store
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.programmingmonk.wenruo/springboot-sample/pom.properties
+target/classes/META-INF/maven/com.programmingmonk.wenruo/springboot-sample/pom.xml
+target/classes/META-INF/maven/com.programmingmonk.wenruo/springboot-sample/pom.xml
+target/classes/META-INF/maven/com.programmingmonk.wenruo/springboot-sample/pom.xml
+target/classes/META-INF/maven/com.programmingmonk.wenruo/springboot-sample/pom.properties
+target/classes/META-INF/maven/com.programmingmonk.wenruo/springboot-sample/pom.xml
